@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+<img align="left" alt="PHP" width="100%" src="http://rodolfokuman.com/img/RodolfoKumanCover.png" style="padding-right:10px;" />
+
 Web developer with 4 years of experience, with a greater focus on the back-end, graduated from the Computer Engineering degree.
 
 
