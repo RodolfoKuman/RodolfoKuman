@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Desarrollador Web con 4 años de experiencia, con mayor enfoque en el back-end, egresado de la carrera de Ing. en Sistemas Computacionales.
+Web developer with 4 years of experience, with a greater focus on the back-end, graduated from the Computer Engineering degree.
 
 
 ### Skills
