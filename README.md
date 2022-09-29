@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" alt="PHP" width="100%" src="http://rodolfokuman.com/img/RodolfoKumanCover.png" style="padding-right:10px;" />
+![Rodolfo Kuman](https://user-images.githubusercontent.com/22400643/192922707-ec29cd1a-f8a0-4bb5-9d18-4a696800f1d9.png)
+
 
 Web developer with 4 years of experience, with a greater focus on the back-end, graduated from the Computer Engineering degree.
 
