@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Rodolfo Kuman](https://user-images.githubusercontent.com/22400643/192922707-ec29cd1a-f8a0-4bb5-9d18-4a696800f1d9.png)
 
 
-Web developer with 45 years of experience, with a greater focus on the back-end, graduated from the Computer Engineering degree.
+Web developer with 5 years of experience, with a greater focus on the back-end, graduated from the Computer Engineering degree.
 
 
 ### Skills
